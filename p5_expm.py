@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """
-Practical 5
 
 Using the square-and-multiply algorithm, implement the following routine:
 Integer expm(Integer, Integer, Integer)

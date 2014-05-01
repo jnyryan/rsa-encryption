@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """
-Practical 11
 
 Implement RSA as the following routines: 
 

@@ -1,6 +1,5 @@
 #!/usr/bin/env python	
 """
-Practical 2
 
 The Extended Euclidean Algorithm
 We can use the Extended Euclidean Algorithm to solve the equation ax + by = gcd(a; b) for x and y.

@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """
-Practical 4
 
 Implement the following routine: 
 

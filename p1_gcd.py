@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """
-Practical 1
 
 Use Euclid's algorithm to implement the routine:
 
